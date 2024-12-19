@@ -1,0 +1,52 @@
+{
+  "name": "@megaorm/zone",
+  "version": "1.1.0",
+  "description": "This package is designed to convert UTC datetimes to a specific timezone and helps format and display them as you like.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "author": "Mohamed",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/megaorm/megaorm-zone.git"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.10.2",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.7.2"
+  },
+  "scripts": {
+    "test": "npx jest --coverage",
+    "build": "tsc --watch"
+  },
+  "keywords": [
+    "timezone",
+    "utc-conversion",
+    "time-zone",
+    "timezone-utils",
+    "utc-to-timezone",
+    "timezone-conversion",
+    "date-time",
+    "time-manipulation",
+    "time-utils",
+    "time-zone-conversion",
+    "date-utils",
+    "timezone-library",
+    "time-zone-converter",
+    "datetime-utils",
+    "megaorm-zone",
+    "time-formatting",
+    "time-handling",
+    "timezones",
+    "nodejs",
+    "js",
+    "ts",
+    "node",
+    "typescript",
+    "javascript"
+  ],
+  "dependencies": {
+    "@megaorm/test": "^1.2.0"
+  }
+}
